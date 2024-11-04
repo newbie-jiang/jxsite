@@ -19,69 +19,20 @@
 		"logo": "static/icons/dayanzai.me.ico"
 	}]
 }, {
-	"_id": "yunpan",
-	"classify": "云盘储存",
+	"_id": "CSDN专栏",
+	"classify": "CSDN专栏",
 	"icon": "ti-cloud",
 	"sites": [{
-		"name": "文叔叔",
-		"href": "https://www.wenshushu.cn/",
-		"desc": "大文件即时传输，新晋优秀网盘",
-		"logo": "static/icons/wenshushu.cn.ico"
-	},  {
-		"name": "微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "腾讯QQ网盘服务",
-		"logo": "static/icons/weiyun.com.ico"
-	}, {
-		"name": "坚果云",
-		"href": "https://www.jianguoyun.com/",
-		"desc": "小众服务稳定的网盘，支持webdav",
-		"logo": "static/icons/jianguoyun.com.ico"
-	}, {
-		"name": "奶牛快传",
-		"href": "https://cowtransfer.com/",
-		"desc": "小众服务稳定的网盘",
-		"logo": "static/icons/cowtransfer.com.png"
-	}, {
-		"name": "OneDrive",
-		"href": "http://onedrive.com/",
-		"desc": "微软云存储，支持在线Offiec编辑",
-		"logo": "static/icons/onedrive.live.com.ico"
-	}, {
-		"name": "DropBox",
-		"href": "https://www.dropbox.com/",
-		"desc": "全球最优秀的在线云存储",
-		"logo": "static/icons/dropbox.com.png"
-	}, {
-		"name": "GoogleDrive",
-		"href": "https://www.google.com/intl/zh-CN/drive/",
-		"desc": "Google在线云存储服务",
-		"logo": "static/icons/drive.google.com.png"
-	}, {
-		"name": "iCloud",
-		"href": "https://www.icloud.com/",
-		"desc": "苹果在线存储和云服务",
-		"logo": "static/icons/icloud.com.png"
-	}, {
-		"name": "Firefox Send",
-		"href": "https://send.firefox.com/",
-		"desc": "火狐提供的快传网盘",
-		"logo": "static/icons/firefox.com.svg"
-	},{
-		"name": "天翼云盘",
-		"href": "https://cloud.189.cn/",
-		"desc": "电信出品的优秀网盘",
-		"logo": "static/icons/189.cn.ico"
-	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
-		"logo": "static/icons/quqi.com.ico"
-	},{
-		"name": "城通网盘",
-		"href": "https://www.ctfile.com/",
-		"desc": "页面不算太难看的网赚网盘,度盘替代品之一",
+		"name": "lvgl基础篇",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825109.html?spm=1001.2014.3001.5482",
+		"desc": "lvgl基础篇",
 		"logo": "static/icons/ctfile.com.png"
+	},{
+                "name": "lvgl移植篇",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825110.html",
+		"desc": "lvgl移植篇",
+		"logo": "static/icons/ctfile.com.png"
+		
 	}]
 },  { 
 	"_id": "daohang",
