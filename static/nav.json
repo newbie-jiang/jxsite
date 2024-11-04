@@ -33,6 +33,85 @@
 		"desc": "lvgl移植篇",
 		"logo": "static/icons/ctfile.com.png"
 		
+	},{
+                "name": "lvgl应用篇",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825111.html",
+		"desc": "lvgl应用篇",
+		"logo": "static/icons/ctfile.com.png"
+		
+	},{
+                "name": "韦东山工业互联",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825112.html",
+		"desc": "韦东山工业互联",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "ARM-Contex内核",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825114.html",
+		"desc": "ARM-Contex内核",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "AT32F437",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825115.html",
+		"desc": "AT32F437",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "富芮坤FR8016HA",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825118.html",
+		"desc": "富芮坤FR8016HA",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "STM32H750",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825108.html",
+		"desc": "STM32H750",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "STM32-bootloader",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825121.html",
+		"desc": "STM32-bootloader",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "加密学",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825122.html",
+		"desc": "加密学",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "FreeRTOS",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825113.html",
+		"desc": "FreeRTOS",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "牛客八股",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825130.html",
+		"desc": "牛客八股",
+		"logo": "static/icons/ctfile.com.png"
+
+		
+	},{
+                "name": "瑞昱RTL8735B",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825117.html",
+		"desc": "瑞昱RTL8735B",
+		"logo": "static/icons/ctfile.com.png"	
+	},{
+                "name": "工具汇总",
+		"href": "https://blog.csdn.net/m0_51095029/category_12825132.html",
+		"desc": "嵌入式工具汇总",
+		"logo": "static/icons/ctfile.com.png"	
 	}]
 },  { 
 	"_id": "daohang",
