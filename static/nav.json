@@ -6,7 +6,7 @@
 		"name": "V.PS",
 		"href": "https://vps.hosting/clientarea/",
 		"desc": "V.PS服务器",
-		"logo": "static/icons/52pojie.cn.ico"
+		"logo": "https://vps.hosting/templates/2019/dist/images/logo-vps.png"
 	}, {
 		"name": "cc vps",
 		"href": "https://app.cloudcone.com.cn/login#vm-net",
