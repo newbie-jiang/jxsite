@@ -115,12 +115,12 @@
 	}]
 },  { 
 	"_id": "daohang",
-	"classify": "分类导航",
+	"classify": "视频导航",
 	"icon": "ti-bookmark-alt",
 	"sites": [{
-		"name": "今日热榜",
-		"href": "https://tophub.today/",
-		"desc": "主流新闻站热点当日集合",
+		"name": "蓝牙扫盲",
+		"href": "https://www.bilibili.com/video/BV1ad4y1d7AM/?spm_id_from=333.999.0.0&vd_source=fa0653f564ca121b33d552a5a430612d",
+		"desc": "蓝牙扫盲",
 		"logo": "static/icons/tophub.today.png"
 	},{
 		"name": "优设导航",
