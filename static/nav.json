@@ -115,12 +115,12 @@
 	}]
 },  { 
 	"_id": "daohang",
-	"classify": "视频导航",
+	"classify": "CSDN付费专栏",
 	"icon": "ti-bookmark-alt",
 	"sites": [{
-		"name": "蓝牙扫盲",
-		"href": "https://www.bilibili.com/video/BV1ad4y1d7AM/?spm_id_from=333.999.0.0&vd_source=fa0653f564ca121b33d552a5a430612d",
-		"desc": "蓝牙扫盲",
+		"name": "i.MX6ull笔记",
+		"href": "https://blog.csdn.net/mculover666/category_11667405.html",
+		"desc": "i.MX6ull笔记",
 		"logo": "static/icons/tophub.today.png"
 	},{
 		"name": "优设导航",
