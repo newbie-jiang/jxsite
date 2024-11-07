@@ -123,9 +123,9 @@
 		"desc": "i.MX6ull笔记",
 		"logo": "static/icons/tophub.today.png"
 	},{
-		"name": "优设导航",
-		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
+		"name": "stm32-cube",
+		"href": "https://blog.csdn.net/qq_36347513/category_10508589.html?spm=1001.2014.3001.5482",
+		"desc": "stm32-cube外设应用",
 		"logo": "https://hao.uisdc.com/favicon.ico"
 	},{
 		"name": "堕落了",
