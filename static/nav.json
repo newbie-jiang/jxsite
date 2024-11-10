@@ -109,6 +109,11 @@
 		"logo": "static/icons/ctfile.com.png"	
 	},{
                 "name": "工具汇总",
+		"href": "https://blog.csdn.net/m0_51095029/category_12829357.html?spm=1001.2014.3001.5482",
+		"desc": "嵌入式工具汇总",
+		"logo": "static/icons/ctfile.com.png"	
+	},{
+                "name": "工具汇总",
 		"href": "https://blog.csdn.net/m0_51095029/category_12825132.html",
 		"desc": "嵌入式工具汇总",
 		"logo": "static/icons/ctfile.com.png"	
