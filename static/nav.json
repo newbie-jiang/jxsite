@@ -173,8 +173,8 @@
 	"classify": "资源搜索",
 	"icon": "ti-search",
 	"sites": [{
-		"name": "LOOKAO",
-		"href": "https://lookao.com/",
+		"name": "C转汇编",
+		"href": "https://godbolt.org/",
 		"desc": "简单的 不追踪不记录搜索引擎",
 		"logo": "https://www.dashengpan.com/favicon.ico"
 	},{
