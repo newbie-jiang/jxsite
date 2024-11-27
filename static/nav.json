@@ -133,9 +133,9 @@
 		"desc": "stm32-cube外设应用",
 		"logo": "https://hao.uisdc.com/favicon.ico"
 	},{
-		"name": "堕落了",
-		"href": "https://www.duoluole.com/",
-		"desc": "年轻态友好向网址导航",
+		"name": "嵌入式常用库",
+		"href": "https://github.com/zhengnianli/EmbedSummary",
+		"desc": "嵌入式常用库",
 		"logo": "static/icons/duoluole.com.png"
 	},{
 		"name": "炫猿导航",
